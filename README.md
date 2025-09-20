@@ -1,2 +1,2 @@
-# webDevelop
+# AI 융합 웹 개발
 웹 개발
